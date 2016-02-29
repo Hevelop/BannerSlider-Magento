@@ -1,0 +1,25 @@
+src/app/code/community/Magestore/*                                                      app/code/community/Magestore/
+src/app/etc/modules/Magestore_Bannerslider.xml                                          app/etc/modules/Magestore_Bannerslider.xml
+
+src/app/design/adminhtml/default/default/layout/bannerslider.xml                        app/design/adminhtml/default/default/layout/bannerslider.xml
+src/app/design/adminhtml/default/default/template/bannerslider                          app/design/adminhtml/default/default/template/bannerslider
+
+src/app/design/frontend/base/default/layout/bannerslider.xml                            app/design/frontend/base/default/layout/bannerslider.xml
+src/app/design/frontend/base/default/layout/vssver2.scc                                 app/design/frontend/base/default/layout/vssver2.scc
+
+src/app/design/frontend/base/default/template/bannerslider                              app/design/frontend/base/default/template/bannerslider
+
+src/app/locale/en_US/Magestore_Bannerslider.csv                                         app/locale/en_US/Magestore_Bannerslider.csv
+
+src/js/magestore/bannerslider                                                           js/magestore/bannerslider
+
+src/js/tinybox/tinybox.js                                                               js/tinybox/tinybox.js
+
+src/skin/adminhtml/default/default/css/magestore/bannerslider                           skin/adminhtml/default/default/css/magestore/bannerslider
+src/skin/adminhtml/default/default/css/magestore/magenotification.css                   skin/adminhtml/default/default/css/magestore/magenotification.css
+src/skin/adminhtml/default/default/css/magestore/notice_price.gif                       skin/adminhtml/default/default/css/magestore/notice_price.gif
+
+src/skin/adminhtml/default/default/css/tinybox/images                                   skin/adminhtml/default/default/css/tinybox/images
+src/skin/adminhtml/default/default/css/tinybox/style.css                                skin/adminhtml/default/default/css/tinybox/style.css
+
+src/skin/frontend/base/default/css/magestore/bannerslider                               skin/frontend/base/default/css/magestore/bannerslider

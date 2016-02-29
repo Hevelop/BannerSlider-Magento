@@ -1,0 +1,15 @@
+{
+  "name": "connect20/magestore_bannerslider",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "Magento Banner Slider is the easiest and most effective way to show a series of your images to grab customers' attention at the very first moment they're on your site.",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Simone Marcato",
+      "email": "hevelop@hevelop.com"
+    }
+  ]
+}
